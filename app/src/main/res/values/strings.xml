@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">HappiHatchiHi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="register"><u>Register</u></string>
+    <string name="forgotmypassword"><u>Forgot My Password</u></string>
+    <string name="Water"><u>Water</u></string>
+    <string name="progress">0</string>
+    <string name="quantity">5</string>
+    <!-- need to reference progess and quantity -->
+    <string name="goal_row_progress">%1$s / %2$s</string>
+    <string name="previous_track" />
+    <string name="play" />
+    <string name="next_track" />
+    <string name="select_the_goals_you_would_like_to_track">Select the goal you would like to track</string>
+    <string name="fruit_amp_veg"><![CDATA[Fruit & Veg]]></string>
+    <string name="meditation">Meditation</string>
+    <string name="waterinit">Water</string>
+    <string-array name="day_array">
+        <item>Select one</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+    </string-array>
+    <string name="recurrenceinit">Water</string>
+    <string name="welcome_message"><![CDATA[Welcome %1$s! In order to get started, you now need to decide on your wellbeing goals!]]></string>
+    <string name="hatchiPauseText">By pausing your Hatchi, you will no longer receive notifications about your goals, your streaks will be frozen and your Hatchi will remain alive. This is perfect for taking short breaks from the app.</string>
+    <string-array name="recurrence_array">
+        <item>Select one</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="notification_array">
+        <item>Select one</item>
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+</resources>
